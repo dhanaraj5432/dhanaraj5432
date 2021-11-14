@@ -1,11 +1,11 @@
-### 
-  Welcome to my GitHub Account !
+### Welcome to my GitHub Account !
   
-  My name is A DHANARAJ
+  # My name is A DHANARAJ
 <!--
 **dhanaraj5432/dhanaraj5432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
