@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Django, ElasticSearch-Logstash-Kibana( ELK ) stack, Kafka messaging service and some cloud services
+- 🔭 I’m currently working on Python, Go(Golang), Django
 - 🌱 I’m currently working for MapleLabs
 - 👯 I’m looking to collaborate on ome opensource porjects
 - 🤔 I’m looking for help with 
